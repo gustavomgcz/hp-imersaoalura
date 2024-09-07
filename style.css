@@ -116,6 +116,12 @@ h1 {
   padding: 2rem 0;
 }
 
+@media screen and (max-width: 992px) {
+  .casas {
+    flex-direction: column;
+  }
+}
+
 .casas button {
   width: 150px;
   padding: 1rem;
