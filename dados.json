@@ -1,0 +1,254 @@
+[
+    {
+      "nome": "Hermione Granger",
+      "imagem": "/imagens/hermione.jpg",
+      "descricao": "Ilustração da personagem Hermione Granger, uma mulher de pele clara, cabelo castanho, volumoso e ondulado, rosto jovem com olhos castanhos, trajando um uniforme de Hogwarts, segurando sua varinha em uma mão, e livros na outra.",
+      "dados": {
+        "nomeCompleto": "Hermione Jean Granger",
+        "dataNascimento": "19 de setembro de 1979",
+        "casa": "Grifinória",
+        "varinha": "25cm, videira e fibra de coração de dragão",
+        "patrono": "Lontra",
+        "estadoSanguineo": "Nascida trouxa"
+      },
+      "sobre": "Hermione Granger é uma bruxa inglesa nascida trouxa e filha única. Aos 11 anos foi aceita na Escola de Magia e Bruxaria de Hogwarts e classificada para a Casa Grifinória. Durante seus anos em Hogwarts, foi uma aluna exemplar, considerada a bruxa mais brilhante do seu ano, além de ser defensora dos direitos dos elfos domésticos e outras criaturas mágicas. Após os eventos dos livros, ingressou no Ministério da Magia, e posteriormente foi promovida ao Departamento de Execução das Leis da Magia e se casou com Ron Weasley, com quem teve dois filhos"
+    },
+    {
+      "nome": "Harry Potter",
+      "imagem": "/imagens/harry.jpg",
+      "descricao": "Ilustração da personagem Harry Potter, um jovem bruxo com cicatriz em forma de raio na testa, cabelo preto e bagunçado, vestindo uniforme de Hogwarts e segurando uma varinha.",
+      "dados": {
+        "nomeCompleto": "Harry James Potter",
+        "dataNascimento": "31 de julho de 1980",
+        "casa": "Grifinória",
+        "varinha": "28cm, azevinho e pena de cauda de fênix",
+        "patrono": "Cervo",
+        "estadoSanguineo": "Mestiço"
+      },
+      "sobre": "Harry Potter é um jovem bruxo famoso por sobreviver ao ataque de Lord Voldemort quando era bebê. Ele foi aceito na Escola de Magia e Bruxaria de Hogwarts aos 11 anos e foi classificado para a Casa Grifinória. Ao longo de sua trajetória em Hogwarts, Harry se destacou como um bruxo corajoso e leal, desempenhando um papel crucial na luta contra Voldemort. Após os eventos dos livros, Harry se tornou Auror no Ministério da Magia e se casou com Gina Weasley, com quem teve três filhos."
+    },
+    {
+      "nome": "Ron Weasley",
+      "imagem": "/imagens/ron.jpg",
+      "descricao": "Ilustração da personagem Ron Weasley, um jovem bruxo com cabelo ruivo, pele clara e sardas, vestindo uniforme de Hogwarts e segurando uma varinha.",
+      "dados": {
+        "nomeCompleto": "Ronald Bilius Weasley",
+        "dataNascimento": "1 de março de 1980",
+        "casa": "Grifinória",
+        "varinha": "35cm, salgueiro e pelo de unicórnio",
+        "patrono": "Cão",
+        "estadoSanguineo": "Sangue puro"
+      },
+      "sobre": "Ron Weasley é um bruxo nascido em uma família numerosa e amorosa. Ele é um dos melhores amigos de Harry Potter e Hermione Granger. Ron é conhecido por seu senso de humor e lealdade, e apesar de muitas vezes sentir-se inferior comparado aos seus amigos, ele sempre desempenha um papel fundamental em suas aventuras. Após os eventos dos livros, Ron se tornou Auror e se casou com Hermione Granger, com quem teve dois filhos."
+    },
+    {
+      "nome": "Albus Dumbledore",
+      "imagem": "/imagens/dumbledore.jpg",
+      "descricao": "Ilustração da personagem Albus Dumbledore, um bruxo idoso com barba longa e cabelos prateados, usando um robe azul e segurando uma varinha.",
+      "dados": {
+        "nomeCompleto": "Albus Percival Wulfric Brian Dumbledore",
+        "dataNascimento": "1881",
+        "casa": "Grifinória",
+        "varinha": "38cm, sabugueiro e pelo de testrálio",
+        "patrono": "Fênix",
+        "estadoSanguineo": "Sangue puro"
+      },
+      "sobre": "Albus Dumbledore é um dos bruxos mais poderosos e respeitados do mundo bruxo. Ele foi o diretor da Escola de Magia e Bruxaria de Hogwarts e desempenhou um papel fundamental na luta contra Lord Voldemort. Dumbledore é conhecido por sua sabedoria, bondade e pela sua habilidade em manipular os eventos em prol do bem maior. Após sua morte, ele deixou um legado duradouro e foi lembrado como um herói."
+    },
+    {
+      "nome": "Sirius Black",
+      "imagem": "/imagens/sirius.jpg",
+      "descricao": "Ilustração da personagem Sirius Black, um bruxo de cabelos pretos e desgrenhados, com uma expressão intensa e vestindo roupas escuras.",
+      "dados": {
+        "nomeCompleto": "Sirius Black",
+        "dataNascimento": "3 de novembro de 1959",
+        "casa": "Grifinória",
+        "varinha": "Desconhecida",
+        "patrono": "Cão (possivelmente)",
+        "estadoSanguineo": "Sangue puro"
+      },
+      "sobre": "Sirius Black é um bruxo de espírito livre e um dos melhores amigos de James Potter, pai de Harry. Ele foi injustamente preso na prisão de Azkaban por um crime que não cometeu e depois se tornou um importante membro da Ordem da Fênix. Sirius era conhecido por sua lealdade e coragem, além de ser o padrinho de Harry Potter. Sua vida foi marcada por tragédias e ele morreu lutando contra os Comensais da Morte."
+    },
+    {
+      "nome": "Minerva McGonagall",
+      "imagem": "/imagens/mcgonagall.jpg",
+      "descricao": "Ilustração da personagem Minerva McGonagall, uma bruxa idosa com cabelo preso em um coque e usando um robe verde escuro e um chapéu pontudo.",
+      "dados": {
+        "nomeCompleto": "Minerva McGonagall",
+        "dataNascimento": "4 de outubro de 1935",
+        "casa": "Grifinória",
+        "varinha": "36 cm, abeto e fibra de coração de dragão",
+        "patrono": "Gato",
+        "estadoSanguineo": "Mestiça"
+      },
+      "sobre": "Minerva McGonagall é uma bruxa respeitada e a professora de Transfiguração em Hogwarts. Ela também serviu como diretora da escola após a morte de Dumbledore. Conhecida por sua firmeza e dedicação ao ensino, McGonagall foi uma figura essencial na luta contra Voldemort e desempenhou um papel crucial na defesa de Hogwarts durante a Batalha de Hogwarts."
+    },
+    {
+      "nome": "Severus Snape",
+      "imagem": "/imagens/snape.jpg",
+      "descricao": "Ilustração da personagem Severus Snape, um bruxo com cabelos escuros e oleosos, vestindo um robe preto e com uma expressão severa.",
+      "dados": {
+        "nomeCompleto": "Severus Snape",
+        "dataNascimento": "9 de janeiro de 1960",
+        "casa": "Sonserina",
+        "varinha": "Desconhecida",
+        "patrono": "Corça",
+        "estadoSanguineo": "Mestiço"
+      },
+      "sobre": "Severus Snape é um dos personagens mais complexos da série, conhecido por sua ambiguidade moral. Ele foi professor de Poções e diretor de Hogwarts, e desempenhou um papel crucial na luta contra Voldemort. Embora inicialmente parecesse ser um antagonista, descobriu-se mais tarde que suas ações eram motivadas por um profundo amor e um desejo de proteger Harry Potter. Sua lealdade e coragem foram fundamentais para a derrota de Voldemort."
+    },
+    {
+      "nome": "Draco Malfoy",
+      "imagem": "/imagens/draco.jpg",
+      "descricao": "Ilustração da personagem Draco Malfoy, um jovem bruxo com cabelo platinado e uma expressão arrogante, usando uniforme de Hogwarts.",
+      "dados": {
+        "nomeCompleto": "Draco Lucius Malfoy",
+        "dataNascimento": "5 de junho de 1980",
+        "casa": "Sonserina",
+        "varinha": "25cm, pilriteiro e pelo de unicórnio",
+        "patrono": "Desconhecido",
+        "estadoSanguineo": "Sangue puro"
+      },
+      "sobre": "Draco Malfoy é um bruxo nascido em uma família de sangue puro e rival de Harry Potter durante seus anos em Hogwarts. Conhecido por sua atitude arrogante e suas crenças sobre a superioridade dos bruxos de sangue puro, Draco enfrentou um grande conflito interno ao longo da série. Embora tenha se juntado a Voldemort, ele lutou contra suas próprias crenças e preocupações sobre sua família."
+    },
+    {
+      "nome": "Tom Riddle (Lord Voldemort)",
+      "imagem": "/imagens/tomriddle.jpg",
+      "descricao": "Ilustração de Tom Riddle, um jovem bruxo com aparência elegante e uma expressão enigmática, usando um robe escuro.",
+      "dados": {
+        "nomeCompleto": "Tom Marvolo Riddle",
+        "dataNascimento": "31 de dezembro de 1926",
+        "casa": "Sonserina",
+        "varinha": "34cm, teixo e núcleo de pena de fênix",
+        "patrono": "Desconhecido",
+        "estadoSanguineo": "Mestiço"
+      },
+      "sobre": "Tom Riddle, mais conhecido como Lord Voldemort, é o principal antagonista da série. Nascido de uma mãe bruxa e um pai trouxa, Riddle se tornou um dos bruxos mais temidos e poderosos da história. Ele buscou a imortalidade e a dominação do mundo bruxo, tornando-se o líder dos Comensais da Morte. Seu desejo de poder e controle levou a uma guerra devastadora."
+    },
+    {
+      "nome": "Lucius Malfoy",
+      "imagem": "/imagens/lucius.jpg",
+      "descricao": "Ilustração da personagem Lucius Malfoy, um bruxo elegante e austero com cabelo platinado, vestindo roupas finas e com uma expressão fria.",
+      "dados": {
+        "nomeCompleto": "Lucius Abraxas Malfoy",
+        "dataNascimento": "19 de setembro de 1954",
+        "casa": "Sonserina",
+        "varinha": "Olmo e corda de coração de dragão ",
+        "patrono": "Desconhecido",
+        "estadoSanguineo": "Sangue puro"
+      },
+      "sobre": "Lucius Malfoy é o pai de Draco Malfoy e um dos principais seguidores de Lord Voldemort. Ele é conhecido por seu orgulho de ser um bruxo de sangue puro e suas ações prejudiciais ao longo da série. Lucius se envolveu profundamente com os Comensais da Morte e desempenhou um papel significativo na perseguição aos bruxos e bruxas que não eram de sangue puro."
+    },
+    {
+      "nome": "Bellatrix Lestrange",
+      "imagem": "/imagens/bellatrix.jpg",
+      "descricao": "Ilustração da personagem Bellatrix Lestrange, uma bruxa com aparência selvagem e uma expressão maníaca, usando roupas escuras e segurando uma varinha.",
+      "dados": {
+        "nomeCompleto": "Bellatrix Lestrange",
+        "dataNascimento": "5 de abril de 1951",
+        "casa": "Sonserina",
+        "varinha": "32cm, nogueira e fibra de coração de dragão",
+        "patrono": "Desconhecido",
+        "estadoSanguineo": "Sangue puro"
+      },
+      "sobre": "Bellatrix Lestrange é uma das seguidoras mais leais e fanáticas de Lord Voldemort. Ela é conhecida por sua crueldade e pela paixão em seus atos de violência. Bellatrix foi responsável por muitos crimes horríveis, incluindo a tortura e assassinato de membros da Ordem da Fênix. Sua lealdade ao Lord das Trevas e seu desejo de causar caos a tornaram uma das vilãs mais temidas da série."
+    },
+    {
+      "nome": "Cedric Diggory",
+      "imagem": "/imagens/cedric.jpg",
+      "descricao": "Ilustração da personagem Cedric Diggory, um jovem bruxo com cabelo castanho e um olhar amigável, vestindo uniforme de Hogwarts e segurando uma varinha.",
+      "dados": {
+        "nomeCompleto": "Cedric Diggory",
+        "dataNascimento": "7 de setembro de 1977",
+        "casa": "Lufa-Lufa",
+        "varinha": "30cm, freixo e pelo de unicórnio",
+        "patrono": "Desconhecido",
+        "estadoSanguineo": "Sangue puro"
+      },
+      "sobre": "Cedric Diggory é um bruxo conhecido por sua integridade e habilidades mágicas excepcionais. Ele foi um dos campeões do Torneio Tribruxo e mostrou grande coragem e honestidade durante a competição. Cedric era um estudante exemplar da Casa Lufa-Lufa e sua morte nas mãos dos Comensais da Morte foi um evento trágico e significativo na luta contra Voldemort."
+    },
+    {
+      "nome": "Nymphadora Tonks",
+      "imagem": "/imagens/tonks.jpg",
+      "descricao": "Ilustração da personagem Nymphadora Tonks, uma bruxa com cabelo rosa e aparência jovem, usando roupas coloridas e segurando uma varinha.",
+      "dados": {
+        "nomeCompleto": "Nymphadora Tonks",
+        "dataNascimento": "11 de maio de 1973",
+        "casa": "Lufa-Lufa",
+        "varinha": "Desconhecida",
+        "patrono": "Lobo",
+        "estadoSanguineo": "Mestiça"
+      },
+      "sobre": "Nymphadora Tonks é uma bruxa conhecida por suas habilidades de metamorfose, permitindo-lhe mudar sua aparência à vontade. Ela trabalhou como Auror e foi membro da Ordem da Fênix, desempenhando um papel ativo na luta contra Voldemort. Tonks era conhecida por seu espírito alegre e senso de humor, e casou-se com Remus Lupin, com quem teve um filho, Ted."
+    },
+    {
+      "nome": "Pomona Sprout",
+      "imagem": "/imagens/sprout.jpg",
+      "descricao": "Ilustração da personagem Pomona Sprout, uma bruxa idosa com cabelo grisalho preso em um coque e vestindo um robe verde, cercada por plantas mágicas.",
+      "dados": {
+        "nomeCompleto": "Pomona Sprout",
+        "dataNascimento": "15 de setembro de 1939",
+        "casa": "Lufa-Lufa",
+        "varinha": "Desconhecida",
+        "patrono": "Não corporeo",
+        "estadoSanguineo": "Sangue puro"
+      },
+      "sobre": "Pomona Sprout é a professora de Herbologia e chefe da Casa Lufa-Lufa em Hogwarts. Ela é uma especialista em plantas mágicas e desempenha um papel importante no ensino dos alunos sobre as propriedades e cuidados das plantas. Durante a Batalha de Hogwarts, Pomona usou suas habilidades para ajudar a defender a escola contra os Comensais da Morte."
+    },
+    {
+      "nome": "Luna Lovegood",
+      "imagem": "/imagens/luna.jpg",
+      "descricao": "Ilustração da personagem Luna Lovegood, uma jovem bruxa com cabelo loiro e um olhar sonhador, usando roupas coloridas e segurando uma varinha.",
+      "dados": {
+        "nomeCompleto": "Luna Scamander",
+        "dataNascimento": "13 de fevereiro de 1981",
+        "casa": "Corvinal",
+        "varinha": "Desconhecida",
+        "patrono": "Lebre",
+        "estadoSanguineo": "Sangue puro"
+      },
+      "sobre": "Luna Lovegood é uma bruxa conhecida por sua visão única e crenças excêntricas. Ela é uma estudante da Casa Corvinal e se destaca por sua personalidade genuína e seu amor por criaturas mágicas. Luna se tornou uma importante aliada de Harry e seus amigos na luta contra Voldemort e eventualmente se tornou uma renomada escritora e naturalista."
+    },
+    {
+      "nome": "Cho Chang",
+      "imagem": "/imagens/cho.jpg",
+      "descricao": "Ilustração da personagem Cho Chang, uma jovem bruxa com cabelo preto e uma expressão gentil, usando uniforme de Hogwarts.",
+      "dados": {
+        "nomeCompleto": "Cho Chang",
+        "dataNascimento": "7 de abril de 1981",
+        "casa": "Corvinal",
+        "varinha": "Desconhecida",
+        "patrono": "Cisne",
+        "estadoSanguineo": "Mestiça"
+      },
+      "sobre": "Cho Chang é uma bruxa da Casa Corvinal e uma talentosa jogadora de Quadribol. Ela teve um romance breve com Harry Potter durante o quarto ano e é conhecida por sua bondade e coragem. Cho também desempenhou um papel na resistência contra os Comensais da Morte e lutou ao lado de Harry e seus amigos."
+    },
+    {
+      "nome": "Garrick Ollivander",
+      "imagem": "/imagens/ollivander.jpg",
+      "descricao": "Ilustração da personagem Garrick Ollivander, um bruxo idoso com cabelo grisalho e uma expressão sábia, vestido com roupas tradicionais de fabricante de varinhas.",
+      "dados": {
+        "nomeCompleto": "Garrick Ollivander",
+        "dataNascimento": "25 de setembro de 1909",
+        "casa": "Corvinal",
+        "varinha": "32cm, choupo-branco e fibra de coração de dragão",
+        "patrono": "Não corporeo",
+        "estadoSanguineo": "Mestiço"
+      },
+      "sobre": "Garrick Ollivander é o renomado fabricante de varinhas em Diagon Alley. Ele é conhecido por sua vasta experiência e conhecimento sobre varinhas mágicas e seus núcleos. Ollivander foi capturado pelos Comensais da Morte, mas foi resgatado por Harry Potter e seus amigos. Sua loja é uma das mais antigas e respeitadas do mundo bruxo."
+    },
+    {
+      "nome": "Filius Flitwick",
+      "imagem": "/imagens/flitwick.jpg",
+      "descricao": "Ilustração da personagem Filius Flitwick, um bruxo de estatura baixa com cabelo grisalho e uma expressão animada, vestido com um robe escuro.",
+      "dados": {
+        "nomeCompleto": "Filius Flitwick",
+        "dataNascimento": "17 de outubro de 1958",
+        "casa": "Corvinal",
+        "varinha": "Desconhecida",
+        "patrono": "Não corporeo",
+        "estadoSanguineo": "Meio-Duende"
+      },
+      "sobre": "Filius Flitwick é o professor de Feitiçaria em Hogwarts e chefe da Casa Corvinal. Ele é conhecido por sua habilidade em feitiçaria e por sua personalidade animada e encorajadora. Flitwick também desempenhou um papel importante na defesa de Hogwarts durante a Batalha de Hogwarts, usando sua expertise em feitiçaria para ajudar na luta contra os Comensais da Morte."
+    }
+]

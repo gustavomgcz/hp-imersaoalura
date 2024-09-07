@@ -1,0 +1,265 @@
+/* Estilos gerais */
+* {
+  font-family: "Merienda", cursive !important;
+  font-weight: 400;
+  font-style: normal;
+  color: #e0e0e0;
+}
+
+body {
+  background: linear-gradient(
+    270deg,
+    #eeba35,
+    #223164,
+    #1a472a,
+    #740001,
+    #1a472a,
+    #223164,
+    #eeba35
+  );
+  background-size: 200% 200%;
+  animation: animacao 50s ease infinite;
+  margin: 0;
+}
+
+@keyframes animacao {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+p,
+h2,
+h1 {
+  text-shadow: #000 1px 1px;
+}
+
+/* Cabecalho do Site */
+
+.cabecalho {
+  text-align: center;
+  padding: 2rem 0 1rem;
+}
+
+h1 {
+  font-size: 4rem;
+}
+
+/* Corpo do Site */
+
+.container {
+  padding: 2rem 4rem;
+}
+
+/* Sessão de Busca */
+.pesquisa {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 2rem;
+  position: relative;
+}
+
+.pesquisa input {
+  width: 100%;
+  max-width: 30rem;
+  border: none;
+  padding: 1rem;
+  border-radius: 1.5rem;
+  margin-bottom: 1rem;
+  color: #45474b;
+  font-size: 1.375rem;
+  box-sizing: border-box;
+}
+
+.pesquisa input:focus {
+  outline: none;
+}
+
+.botao {
+  padding: 1rem 1.2rem;
+  border: none;
+  border-radius: 1.5rem;
+  background-color: #30475e;
+  color: #f5f7f8;
+  font-size: 1.375rem;
+  cursor: pointer;
+  margin-bottom: 1rem;
+}
+
+.pesquisa button:hover {
+  background-color: #30475e;
+  box-shadow: 0 10px 10px rgba(0, 0, 0, 0.2);
+}
+
+.pesquisa button:active {
+  background-color: #465b76;
+}
+
+.invalido {
+  color: #ff6961;
+  font-size: 0.75rem;
+  margin: 0;
+  position: absolute;
+  top: 64px;
+}
+
+.casas {
+  display: flex;
+  gap: 2rem;
+  padding: 2rem 0;
+}
+
+.casas button {
+  width: 150px;
+  padding: 1rem;
+  font-size: 1rem;
+  border-radius: 5px;
+  border: none;
+  box-shadow: 0 0 16px rgba(255, 255, 255, 0.8);
+  cursor: pointer;
+}
+
+.grifinoria {
+  background-color: #740001;
+  color: #eeba30;
+}
+
+.grifinoria:hover {
+  background-color: #eeba30 !important;
+  color: #740001 !important;
+}
+
+.sonserina {
+  background-color: #1a472a;
+  color: #aaaaaa;
+}
+
+.sonserina:hover {
+  background-color: #aaaaaa !important;
+  color: #1a472a !important;
+}
+
+.corvinal {
+  background-color: #223164;
+  color: #946b2d;
+}
+
+.corvinal:hover {
+  background-color: #946b2d !important;
+  color: #223164 !important;
+}
+
+.lufalufa {
+  background-color: #eeba35;
+  color: #372e29;
+}
+
+.lufalufa:hover {
+  background-color: #372e29 !important;
+  color: #eeba35 !important;
+}
+
+.grifinoria:hover,
+.sonserina:hover,
+.corvinal:hover,
+.lufalufa:hover {
+  box-shadow: 0 0 16px rgba(255, 255, 255, 0.8) !important;
+}
+
+/* Sessão de Resultado */
+.resultado {
+  display: flex;
+  justify-content: space-evenly;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.personagem-card,
+.personagem-card-pequeno {
+  display: flex;
+  flex-direction: column;
+  width: 500px;
+  gap: 1rem;
+}
+
+.personagem-card {
+  min-height: 750px;
+  height: auto;
+}
+
+.personagem-card-pequeno {
+  height: 50px;
+}
+
+.personagem-img {
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+  align-self: center;
+}
+
+.personagem-card h2,
+.personagem-card-pequeno h2 {
+  font-size: 2.5rem;
+  text-align: center;
+}
+
+.personagem-card p {
+  font-size: 1.125rem;
+  color: #fefefe;
+  line-height: 1.125;
+  text-align: justify;
+}
+
+.personagem-card span {
+  font-weight: bold;
+}
+
+/* Rodapé do Site */
+
+.rodape {
+  padding-bottom: 3rem;
+  padding-top: 3rem;
+  text-align: center;
+  margin-top: 3%;
+}
+
+@media screen and (max-width: 992px) {
+  .rodape {
+    margin-top: 70%;
+  }
+}
+
+.rodape p {
+  font-size: 1.25rem;
+}
+
+.email {
+  text-decoration: underline;
+}
+
+.amor {
+  animation: pulsar 1s infinite;
+  color: red;
+  display: inline-block;
+  margin: 0 5px;
+}
+
+@keyframes pulsar {
+  0% {
+    transform: scale(1.5);
+  }
+  50% {
+    transform: scale(1.1);
+  }
+  100% {
+    transform: scale(1.5);
+  }
+}
